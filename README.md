@@ -16,7 +16,7 @@ A visão é que ninguém mais tenha de sofrer por causa de terroristas como muit
 
 ## 🔨 O plano - Ferramenta de Prevenção de Crimes Online
 
-O plano para atinigr essa [visão](#visão) é usar como alavanca as mais novas tecnologias de `inteligência artificial` e redes neurais
+O plano para atinigr essa visão é usar como alavanca as mais novas tecnologias de `inteligência artificial` e redes neurais
 para podermos **encontrar**, **rankear**, **catalogar** e **reportar** o máximo de *perfis, canais, contas e usuários* possíveis para poder ajudar as autoridades
 a cuidarem dos casos pessoalmente.
 
