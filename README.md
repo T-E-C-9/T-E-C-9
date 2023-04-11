@@ -48,7 +48,7 @@ também possam contribuir mesmo que com apenas computação.
 
 Para atingir o nosso plano, é necessário um **cronograma** para nos manter focados e trabalhando nos projetos.
 
-O objetivo é lançar a primeira versão do [MVP](#🏗️-mvp) em `dezembro de 2023`. Para atingir essa meta, o projeto será dividido em *três fases principais*:
+O objetivo é lançar a primeira versão do MVP em `dezembro de 2023`. Para atingir essa meta, o projeto será dividido em *três fases principais*:
 
 #### Fase 1: Planejamento (Abril 2022 - Julho 2022)
 1. Definir objetivos claros e recursos necessários para a primeira versão da ferramenta
@@ -69,7 +69,7 @@ O objetivo é lançar a primeira versão do [MVP](#🏗️-mvp) em `dezembro de 
 
 Para começar a contribuir basta simplesmente acessar algum dos projetos que já temos, modificar o que achar interessante e fazer um **pull request**.
 
-Caso você queira fazer parte mais há fundo acho interessante que entre em contato com um de nossos [autores](#✍️-autores).
+Caso você queira fazer parte mais há fundo o melhor é que entre em contato com um de nossos autores.
 
 ## ✍️ Autores
 
