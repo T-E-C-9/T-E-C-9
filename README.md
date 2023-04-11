@@ -1,89 +1,83 @@
-# T-E-C-9
+# TEC-9
 
-❔  O que é?
+## ❔ O que é?
 
-O Projeto Tec 9 é uma iniciativa cristã com o objetivo de prevenir atentados reais que são planejados através da internet. Por meio do uso de tecnologia e estratégias de inteligência artificial, o projeto busca identificar e monitorar possíveis ameaças terroristas em todo o mundo, a fim de evitar que elas se tornem realidade. Acreditamos que, ao unir nossos esforços, podemos fazer a diferença na luta contra o terrorismo e ajudar a manter nossas comunidades seguras.
+O Projeto `TEC-9` é uma iniciativa cristã com o objetivo de prevenir **atentados reais** que são planejados através da internet. 
+Por meio do uso de tecnologia e estratégias de inteligência artificial, nós buscamos **identificar** e **monitorar** possíveis ameaças 
+terroristas em todo o mundo (`primeiro no Brasil`), a fim de evitar que elas se tornem realidade. 
 
-🔨 O plano - Ferramenta de Prevenção de Crimes Online
-Nosso objetivo é desenvolver e disponibilizar uma ferramenta gratuita para ajudar a prevenir crimes planejados online. Este projeto é uma iniciativa a longo prazo para salvar vidas e melhorar a segurança online para todos.
+Acreditamos que, ao unir nossos esforços, podemos fazer a diferença na luta contra o terrorismo e ajudar a manter nossas comunidades seguras.
 
-Cronograma
-O objetivo é lançar a primeira versão da ferramenta em dezembro de 2023. Para atingir essa meta, o projeto será dividido em três fases principais:
+## 👀 A visão - Reunir programadores brasileiros para salvar vidas {#visão}
 
-Fase 1: Planejamento (Abril 2022 - Julho 2022)
-Definir objetivos claros e recursos necessários para a primeira versão da ferramenta
-Identificar a melhor tecnologia para o projeto e começar a construir uma equipe de desenvolvimento
-Realizar pesquisas e análises aprofundadas para entender as necessidades dos usuários e dos clientes
+Nossa visão é reunir o máximo de programadores brasileiros para criar um projeto inovador que possa ajudar a salvar vidas.
 
-Fase 2: Desenvolvimento (Agosto 2022 - Novembro 2023)
-Desenvolver a primeira versão da ferramenta, incluindo integração com APIs e sistemas de inteligência artificial
-Testar a ferramenta para garantir que ela atenda aos objetivos e requisitos estabelecidos
-Realizar melhorias e ajustes necessários com base no feedback dos usuários e testes
+A visão é que ninguém mais tenha de sofrer por causa de terroristas como muitos que já apareceram várias vezes em jornais.
 
-Fase 3: Lançamento e Continuação da Melhoria (Dezembro 2023 em diante)
-Lançar a primeira versão da ferramenta e começar a coletar feedback dos usuários
-Continuar a desenvolver e melhorar a ferramenta com base no feedback dos usuários e nas necessidades do mercado
-Estabelecer parcerias com organizações e indivíduos para aumentar a eficácia da ferramenta na prevenção de crimes planejados na internet
+## 🔨 O plano - Ferramenta de Prevenção de Crimes Online
 
-Participantes do projeto
-Gabriel - líder do projeto e responsável pela coordenação geral
+O plano para atinigr essa [visão](#visão) é usar como alavanca as mais novas tecnologias de `inteligência artificial` e redes neurais
+para podermos **encontrar**, **rankear**, **catalogar** e **reportar** o máximo de *perfis, canais, contas e usuários* possíveis para poder ajudar as autoridades
+a cuidarem dos casos pessoalmente.
 
-Equipe de desenvolvimento - responsável por desenvolver a ferramenta e garantir sua eficácia
-Especialistas em segurança cibernética - fornecer orientações e conhecimentos especializados para garantir que a ferramenta seja eficaz na prevenção de crimes online
-Tecnologia utilizada
-A ferramenta será desenvolvida usando uma combinação de tecnologias de programação e ferramentas de inteligência artificial, incluindo Python, TensorFlow, Keras e APIs de terceiros para coleta de dados e análise.
+### 🏗️ MVP {#mvp}
 
-Estamos entusiasmados com o potencial deste projeto e esperamos trabalhar em conjunto com a comunidade de desenvolvedores para prevenir crimes planejados na internet e proteger pessoas em todo o mundo.
+Nós temos várias ideias de projetos para poder atingir os nossos objetivos,
+algumas sendo mais faceis e mais difíceis que as outras, mas por enquanto queremos atingir um `MVP` (Minimum Viable Product)
+afim de conseguir um minímo produto que tanto trabalha em servidores financiados por doações como pode rodar em computadores individuais das pessoas.
 
-👀 A visão - Reunir programadores cristãos brasileiros para salvar vidas
-Nossa visão é reunir todos os programadores cristãos brasileiros para criar um projeto inovador que possa ajudar a salvar vidas. Queremos unir nossos talentos e habilidades em programação para desenvolver uma solução de longo prazo que possa ajudar a proteger pessoas.
+As ideias que nós consideramos como mais princípais para atingir os nossos objetivos são:
 
-💡 As ideias
+- [ ] Crawler de redes sociais que analisaria, (usando inteligência artificial), ao mesmo tempo a foto de perfil, a bio, nome de usuário e o máximo de informações
+possíveis para poder determinar o quão perigoso o dono do perfil pode ser.
 
-Análise de Perfis com Máscaras Suspeitas
-O objetivo deste projeto é desenvolver uma ferramenta para analisar perfis no Twitter e no Facebook que utilizam máscaras suspeitas em suas fotos de perfil. A ferramenta terá as seguintes funcionalidades:
+- [ ] Crawler que enocntraria comunidades de pessoas que estão envolvidas em crimes como: contrabandeamento de armas, planejamento ou endorsamento de crimes terroristas e etc.
 
-Análise de Perfis no Twitter e Facebook
-A ferramenta usará crawlers para coletar informações sobre os perfis no Twitter e no Facebook que utilizam máscaras suspeitas em suas fotos de perfil. A análise incluirá as seguintes informações:
+- [ ] Algum mini-projeto que permita rodar alguma das ideias já definidas compartilhadamente, para que pessoas de pouco conhecimento técnico
+também possam contribuir mesmo que com apenas computação.
 
-Nome do usuário
-Foto do perfil com a máscara suspeita
-Data de criação da conta
-Número de seguidores
-Número de postagens
-Conteúdo das postagens (se disponível)
-Quem segue quem (se disponível)
-Ranqueamento de Perfis Perigosos
-A ferramenta usará um algoritmo de ranqueamento para determinar quais perfis são mais suspeitos com base em suas fotos de perfil, postagens e atividades na rede social. Os perfis mais suspeitos serão ranqueados em uma lista para que as autoridades possam investigá-los mais a fundo.
+### 💡 Outras ideias interessantes para continuar
 
-🚀 Começando
-Instruções sobre como instalar, configurar e executar o projeto. Inclua comandos específicos para clonar o repositório, instalar dependências e executar o projeto localmente.
+- [ ] Chatbot que iria se comunicar de forma que imite pessoas mal intencionadas para poder conseguir informações de criminosos automaticamente e conseguir reportá-los.
 
-📋 Pré-requisitos
-Liste quais softwares e ferramentas são necessários para executar o projeto, incluindo versões específicas. Por exemplo, se é necessário ter o Node.js instalado.
+- [ ] Algum tipo de ferramente (talvez uma API) que unifique a possibilidade de `reportar` c0isas suspeitas para as autoridades brasileiras.
 
-🔧 Instalação
-Passo a passo sobre como instalar e configurar o projeto. Certifique-se de incluir todos os comandos e configurações necessários para garantir que o projeto funcione corretamente.
+- [ ] Ferramenta de treinamento de modelos compartilhadamente entre computadores de todas as pessoas que estiverem interessadas em ajudar.
 
-🛠️ Construído com
-Tecnologia 1 - Descrição breve da tecnologia 1 usada no projeto.
-Tecnologia 2 - Descrição breve da tecnologia 2 usada no projeto.
-Tecnologia 3 - Descrição breve da tecnologia 3 usada no projeto.
+### ⏰ Cronograma
 
-🤝 Contribuindo
-Instruções para como outras pessoas podem contribuir para o projeto, incluindo como enviar feedback, relatar problemas e enviar pull requests.
+Para atingir o nosso plano, é necessário um **cronograma** para nos manter focados e trabalhando nos projetos.
 
-📝 Licença
-licença creative commons.
+O objetivo é lançar a primeira versão do [MVP](#mvp) em `dezembro de 2023`. Para atingir essa meta, o projeto será dividido em *três fases principais*:
 
-✍️ Autores
-Gabriel - Progamador Sênior responsável por toda a construção do projeto.
-Ivaldo - Recebeu a ideia - rsrs.
+#### Fase 1: Planejamento (Abril 2022 - Julho 2022)
+1. Definir objetivos claros e recursos necessários para a primeira versão da ferramenta
+2. Identificar a melhor tecnologia para o projeto e começar a construir uma equipe de desenvolvimento
+3. Fazer divulgações para podermos conseguir contribuíntes, pessoas interessadas e doadores
 
-📄 Agradecimentos
+#### Fase 2: Desenvolvimento (Agosto 2022 - Novembro 2023)
+1. Desenvolver a primeira versão da ferramenta, incluindo integração com APIs e sistemas de inteligência artificial
+2. Testar a ferramenta para garantir que ela atenda aos objetivos e requisitos estabelecidos
+3. Realizar melhorias e ajustes necessários com base nos nossos resultados e reiterar
 
-Gostaríamos de agradecer a Cristo por ter nos dado a inspiração para este projeto e a oportunidade de trabalhar em prol de uma causa tão importante. Também gostaríamos de agradecer a todos que participam deste projeto, desde os desenvolvedores e designers até os voluntários que dedicam seu tempo e esforço para torná-lo uma realidade.
+#### Fase 3: Lançamento e Continuação da Melhoria (Dezembro 2023 em diante)
+1. Lançar a primeira versão da ferramenta e começar a coletar dados sobre terroristas e criminosos
+2. Continuar a desenvolver e melhorar a ferramenta com base nos resultados que conseguirmos
+3. Estabelecer parcerias com organizações e indivíduos para aumentar a eficácia da ferramenta na prevenção de crimes planejados na internet
 
-Além disso, gostaríamos de agradecer às ferramentas e APIs que utilizamos neste projeto, que nos ajudaram a implementar recursos e funcionalidades importantes. Agradecemos especialmente às equipes por trás dessas tecnologias por sua dedicação e trabalho árduo em torná-las acessíveis e eficazes para a comunidade de desenvolvedores.
+## 🤝 Contribuindo
 
-Obrigado novamente a todos os que tornaram este projeto possível e estamos ansiosos para trabalhar juntos em projetos futuros.
+Para começar a contribuir basta simplesmente acessar algum dos projetos que já temos, modificar o que achar interessante e fazer um **pull request**.
+
+Caso você queira fazer parte mais há fundo acho interessante que entre em contato com um de nossos [autores](#autores).
+
+## ✍️ Autores {#autores}
+
+* Ivaldo  <ivaldo-monteiro@live.com> - Autor da ideia
+* Gabriel <gabrielf.miranda@outlook.com> - Programador chefe e co-fundador da iniciativa
+
+## Conclusão
+
+Gostaríamos de agradecer a Cristo por ter nos dado a inspiração para este projeto e a oportunidade de trabalhar em prol de uma causa tão importante.
+
+**Soli DEO Gloria.**
