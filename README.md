@@ -8,7 +8,7 @@ terroristas em todo o mundo (`primeiro no Brasil`), a fim de evitar que elas se 
 
 Acreditamos que, ao unir nossos esforços, podemos fazer a diferença na luta contra o terrorismo e ajudar a manter nossas comunidades seguras.
 
-## 👀 A visão - Reunir programadores brasileiros para salvar vidas {#visão}
+## 👀 A visão - Reunir programadores brasileiros para salvar vidas
 
 Nossa visão é reunir o máximo de programadores brasileiros para criar um projeto inovador que possa ajudar a salvar vidas.
 
@@ -20,7 +20,7 @@ O plano para atinigr essa [visão](#visão) é usar como alavanca as mais novas 
 para podermos **encontrar**, **rankear**, **catalogar** e **reportar** o máximo de *perfis, canais, contas e usuários* possíveis para poder ajudar as autoridades
 a cuidarem dos casos pessoalmente.
 
-### 🏗️ MVP {#mvp}
+### 🏗️ MVP
 
 Nós temos várias ideias de projetos para poder atingir os nossos objetivos,
 algumas sendo mais faceis e mais difíceis que as outras, mas por enquanto queremos atingir um `MVP` (Minimum Viable Product)
@@ -48,7 +48,7 @@ também possam contribuir mesmo que com apenas computação.
 
 Para atingir o nosso plano, é necessário um **cronograma** para nos manter focados e trabalhando nos projetos.
 
-O objetivo é lançar a primeira versão do [MVP](#mvp) em `dezembro de 2023`. Para atingir essa meta, o projeto será dividido em *três fases principais*:
+O objetivo é lançar a primeira versão do [MVP](#🏗️-mvp) em `dezembro de 2023`. Para atingir essa meta, o projeto será dividido em *três fases principais*:
 
 #### Fase 1: Planejamento (Abril 2022 - Julho 2022)
 1. Definir objetivos claros e recursos necessários para a primeira versão da ferramenta
@@ -69,9 +69,9 @@ O objetivo é lançar a primeira versão do [MVP](#mvp) em `dezembro de 2023`. P
 
 Para começar a contribuir basta simplesmente acessar algum dos projetos que já temos, modificar o que achar interessante e fazer um **pull request**.
 
-Caso você queira fazer parte mais há fundo acho interessante que entre em contato com um de nossos [autores](#autores).
+Caso você queira fazer parte mais há fundo acho interessante que entre em contato com um de nossos [autores](#✍️-autores).
 
-## ✍️ Autores {#autores}
+## ✍️ Autores
 
 * Ivaldo  <ivaldo-monteiro@live.com> - Autor da ideia
 * Gabriel <gabrielf.miranda@outlook.com> - Programador chefe e co-fundador da iniciativa
