@@ -16,7 +16,7 @@ A visão é que ninguém mais tenha de sofrer por causa de terroristas como muit
 
 ## 🔨 O plano - Ferramenta de Prevenção de Crimes Online
 
-O plano para atinigr essa visão é usar como alavanca as mais novas tecnologias de `inteligência artificial` e redes neurais
+O plano para atingir essa visão é usar como alavanca as mais novas tecnologias de `inteligência artificial` e redes neurais
 para podermos **encontrar**, **rankear**, **catalogar** e **reportar** o máximo de *perfis, canais, contas e usuários* possíveis para poder ajudar as autoridades
 a cuidarem dos casos pessoalmente.
 
@@ -26,12 +26,12 @@ Nós temos várias ideias de projetos para poder atingir os nossos objetivos,
 algumas sendo mais faceis e mais difíceis que as outras, mas por enquanto queremos atingir um `MVP` (Minimum Viable Product)
 afim de conseguir um minímo produto que tanto trabalha em servidores financiados por doações como pode rodar em computadores individuais das pessoas.
 
-As ideias que nós consideramos como mais princípais para atingir os nossos objetivos são:
+As ideias que nós consideramos como mais principais para atingir os nossos objetivos são:
 
 - [ ] Crawler de redes sociais que analisaria, (usando inteligência artificial), ao mesmo tempo a foto de perfil, a bio, nome de usuário e o máximo de informações
 possíveis para poder determinar o quão perigoso o dono do perfil pode ser.
 
-- [ ] Crawler que enocntraria comunidades de pessoas que estão envolvidas em crimes como: contrabandeamento de armas, planejamento ou endorsamento de crimes terroristas e etc.
+- [ ] Crawler que encontraria comunidades de pessoas que estão envolvidas em crimes como: contrabandeamento de armas, planejamento ou endorsamento de crimes terroristas e etc.
 
 - [ ] Algum mini-projeto que permita rodar alguma das ideias já definidas compartilhadamente, para que pessoas de pouco conhecimento técnico
 também possam contribuir mesmo que com apenas computação.
